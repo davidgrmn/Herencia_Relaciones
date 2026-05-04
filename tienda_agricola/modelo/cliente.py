@@ -2,7 +2,7 @@ class Cliente:
     def __init__(self, nombre, cedula):
         self.nombre = nombre
         self.cedula = cedula
-        self.pedidos = []        # composición: un cliente tiene muchos pedidos
+        self.pedidos = []        
 
     def agregar_pedido(self, pedido):
         self.pedidos.append(pedido)
