@@ -55,23 +55,23 @@ python -m unittest discover -s test -v
 
 ### Pruebas Unitarias
 
-![Pruebas unitarias](evidencias/tests_pasando.png)
+![Pruebas unitarias](evidencias/test.png)
 
 ---
 
 ### Debug — Composición (Cliente → Pedido → Productos)
 
-![Debug composición](evidencias/debug_composicion.png)
+![Debug composición](evidencias/clientes.png)
 
 ---
 
 ### Debug — Herencia ControlPlagas
 
-![Debug herencia ControlPlagas](evidencias/debug_control_plagas.png)
+![Debug herencia ControlPlagas](evidencias/plagas.png)
 
 ---
 
 ### Debug — Herencia ControlFertilizantes
 
-![Debug herencia ControlFertilizantes](evidencias/debug_control_fertilizantes.png)
+![Debug herencia ControlFertilizantes](evidencias/fertilizantes.png)
 
