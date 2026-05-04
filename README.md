@@ -31,7 +31,7 @@ tienda_agricola/
 
 ## Diagrama de Clases
 
-![Diagrama de Clases](evidencias/diagrama_clases.png)
+![Diagrama de Clases](evidencias/diagrama_clases.jpg)
 
 ---
 
