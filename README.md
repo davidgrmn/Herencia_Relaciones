@@ -50,7 +50,7 @@ tienda_agricola/
 
 ## Diagrama de Componentes
 
-![Diagrama de Componentes](evidencias/diagrama_componentes.jpg)
+![Diagrama de Componentes](evidencias/diagrama_componentes.png)
 
 ---
 
