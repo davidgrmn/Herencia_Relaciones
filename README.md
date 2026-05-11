@@ -24,9 +24,22 @@ tienda_agricola/
 │   ├── pedido.py
 │   └── cliente.py
 │
+├── crud/
+│   ├── __init__.py
+│   └── crud.py
+│
+├── ui/
+│   ├── __init__.py
+│   └── menu.py
+│
 ├── test/
 │   ├── __init__.py
 │   └── test_tienda.py
+│
+├── main.py
+
+
+
 ```
 
 ## Diagrama de Clases
