@@ -1,4 +1,4 @@
-# Tienda Agricola - Sistema de Facturación
+# Tienda Agricola - Sistema de Facturacion
 
 ---
 
