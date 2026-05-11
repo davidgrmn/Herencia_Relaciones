@@ -1,10 +1,10 @@
-# Tienda Agrícola - Sistema de Facturación
+# Tienda Agricola - Sistema de Facturación
 
 ---
 
-## Descripción
+## Descripcion
 
-Sistema de facturación para una tienda agrícola desarrollado en Python. Permite gestionar clientes, pedidos y productos especializados como controles de plagas, fertilizantes y antibioticos para animales de granja.
+Sistema de facturación para una tienda agricola desarrollado en Python. Permite gestionar clientes, pedidos y productos especializados como controles de plagas, fertilizantes y antibioticos para animales de granja.
 
 El proyecto se enfoca principalmente en la aplicacion de los conceptos de **herencia**, **composición** y **modularidad**.
 
@@ -54,9 +54,9 @@ tienda_agricola/
 
 ---
 
-## Cómo correr las pruebas
+## Como correr las pruebas
 
-Desde la carpeta raíz del proyecto ejecutar:
+Desde la carpeta raiz del proyecto ejecutar:
 
 ```bash
 python -m unittest discover -s test -v
@@ -72,7 +72,7 @@ python -m unittest discover -s test -v
 
 ---
 
-### Debug — Composición (Cliente → Pedido → Productos)
+### Debug — Composicion (Cliente → Pedido → Productos)
 
 ![Debug composición](evidencias/clientes.png)
 
